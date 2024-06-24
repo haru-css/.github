@@ -6,7 +6,7 @@ While the concept of Object Orientated or Utility Class based CSS aproaches were
 
 In building Haru-CSS, my chief aim has been to analyse and consider the many design decisions and compromises the contributors to Tachyons made when crafting the original framework.
 
-While compiled Tachyons is still very useable, much of the tooling around its ecosystem has suffered from breaking dependencies which prevent new builds. Tachyons-Haru aims to minimise this complexity using booring tech, with a monolithic Sass-first approach. Once a flexible and modern Sass foundation has been crafted, new modules can be added to address browser features available since Tachyons' last stable release.
+While compiled Tachyons is still very useable, much of the tooling around its ecosystem has suffered from breaking dependencies which prevent new builds. Haru aims to minimise this complexity using booring tech, with a monolithic Sass-first approach. Once a flexible and modern Sass foundation has been crafted, new modules can be added to address browser features available since Tachyons' last stable release.
 
 #### Adam Morse: Devshop, London June 2016
 [![Adam Morse explainsTachyons CSS at Devshop London, June 2016](https://img.youtube.com/vi/r56fRaWth58/0.jpg)](https://www.youtube.com/watch?v=r56fRaWth58)
